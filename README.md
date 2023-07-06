@@ -4,7 +4,8 @@ Codelab　Jetpack Composeで、タスクマネージャーの「ある日のタ�
 
 | 実装完了時のイメージ |
 |--------|
-|<img src="https://github.com/yanPWA/TaskManagers/assets/82929509/dca97bed-d3f9-465c-85f0-27d047628101" width="200px"/>|
+|<img src="https://github.com/yanPWA/TaskManagers/assets/82929509/883065f9-df03-423e-8341-939063549b12" width="200px"/>|
+
 
 
 
